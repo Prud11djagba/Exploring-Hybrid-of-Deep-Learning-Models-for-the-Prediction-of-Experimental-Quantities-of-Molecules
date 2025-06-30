@@ -2,6 +2,7 @@
 The prediction of experimental molecular properties is a critical task in computational chemistry, enabling faster and more accurate assessments of molecular behavior without the need for costly laboratory experiments. Deep learning has emerged as a state-of-the-art approach across various domains, including cheminformatics, due to its capacity to learn complex, nonlinear patterns. Recent research has shown that hybrid architectures combining different deep learning  can significantly enhance model performance. In this study, we investigate a hybrid modeling framework that integrates Graph Neural Networks (GNNs) and Probabilistic Graphical Models (PGMs) for the prediction of key experimental molecular quantities, including $IC_{50}$, $\logP$, $\logD$, water solubility, hydration free energy, and retention time. The proposed models are trained and evaluated on multiple large-scale experimental datasets and compared against standard deep learning baselines, such as Long Short-Term Memory (LSTM) networks and transformer-based models such as ChemBERT. While prior work has focused on theoretical graph-based predictions of $IC_{50}$​ for limited datasets (e.g., Flavonoids), our study expands this scope to broader molecular libraries.
 
 
+##Illustration of SMILES-based molecular construction
 
 
 # Results
