@@ -27,6 +27,8 @@ The plots and figures below provide a comprehensive visualization of model perfo
 
 # ESOL (Estimating aqueous solubility) dataset
 
+![image alt](https://github.com/Prud11djagba/Exploring-Hybrid-of-Deep-Learning-Models-for-the-Prediction-of-Experimental-Quantities-of-Molecules/blob/3b6e73f6c0913bc5f496be02fd43cd2193896129/Figure%20PGM%2BGNN%20water%20solubility.png)
+
 # SAMPL (Statistical Assessment of the Modeling of Proteins and Ligands: solvation free energy) dataset
 
 
