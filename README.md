@@ -22,9 +22,12 @@ The plots and figures below provide a comprehensive visualization of model perfo
 ![image alt](https://github.com/Prud11djagba/Exploring-Hybrid-of-Deep-Learning-Models-for-the-Prediction-of-Experimental-Quantities-of-Molecules/blob/89f06a5c7fba3a096f4e86f494a153f6a60da70e/Figure%20PGM%2BGNN%20on%20log%20P%20exp.png)
 # Distribution Coefficient (log D) experimental dataset
 
-# ESOL (Estimating aqueous solubility)
 
-# SAMPL (Statistical Assessment of the Modeling of Proteins and Ligands: solvation free energy)
+![image alt](https://github.com/Prud11djagba/Exploring-Hybrid-of-Deep-Learning-Models-for-the-Prediction-of-Experimental-Quantities-of-Molecules/blob/5e8f2ef6b289e420a961f05ce9a11adc775524b9/Figure%20PGM%2BGNN%20on%20log%20D.png)
+
+# ESOL (Estimating aqueous solubility) dataset
+
+# SAMPL (Statistical Assessment of the Modeling of Proteins and Ligands: solvation free energy) dataset
 
 
 
