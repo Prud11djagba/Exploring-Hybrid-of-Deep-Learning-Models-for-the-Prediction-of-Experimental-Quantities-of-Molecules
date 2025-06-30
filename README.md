@@ -31,6 +31,8 @@ The plots and figures below provide a comprehensive visualization of model perfo
 
 # SAMPL (Statistical Assessment of the Modeling of Proteins and Ligands: solvation free energy) dataset
 
+![image alt](https://github.com/Prud11djagba/Exploring-Hybrid-of-Deep-Learning-Models-for-the-Prediction-of-Experimental-Quantities-of-Molecules/blob/c71894ee2d069e33daf228607315091e0bdf4cc0/Figure%20PGM%2BGNN%20Free%20hydratation.png)
+
 
 
 
