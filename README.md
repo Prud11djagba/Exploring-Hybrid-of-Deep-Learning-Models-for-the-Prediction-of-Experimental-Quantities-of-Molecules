@@ -19,6 +19,7 @@ The plots and figures below provide a comprehensive visualization of model perfo
 
 # Partition coefficient (log P) experimental dataset
 
+![image alt](https://github.com/Prud11djagba/Exploring-Hybrid-of-Deep-Learning-Models-for-the-Prediction-of-Experimental-Quantities-of-Molecules/blob/89f06a5c7fba3a096f4e86f494a153f6a60da70e/Figure%20PGM%2BGNN%20on%20log%20P%20exp.png)
 # Distribution Coefficient (log D) experimental dataset
 
 # ESOL (Estimating aqueous solubility)
