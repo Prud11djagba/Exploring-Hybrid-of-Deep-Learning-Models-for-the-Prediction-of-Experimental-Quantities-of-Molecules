@@ -19,7 +19,7 @@ The plots and figures below provide a comprehensive visualization of model perfo
 
 # Partition coefficient (log P) experimental dataset
 
-![image alt](https://github.com/Prud11djagba/Exploring-Hybrid-of-Deep-Learning-Models-for-the-Prediction-of-Experimental-Quantities-of-Molecules/blob/6399e6fa72da666758c35e1d820c1b7cb5f13973/images/Correlation%20Heatmap%20of%20Molecular%20Descriptors%20and%20logP.png]
+![image alt](https://github.com/Prud11djagba/Exploring-Hybrid-of-Deep-Learning-Models-for-the-Prediction-of-Experimental-Quantities-of-Molecules/blob/6399e6fa72da666758c35e1d820c1b7cb5f13973/images/Correlation%20Heatmap%20of%20Molecular%20Descriptors%20and%20logP.png)
 correlation heatmap matrix computed from the molecular descriptors and the experimental logP values extracted from your dataset.
  Features Included:
 
