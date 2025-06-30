@@ -15,6 +15,7 @@ The plots and figures below provide a comprehensive visualization of model perfo
 ![image alt](https://github.com/Prud11djagba/Exploring-Hybrid-of-Deep-Learning-Models-for-the-Prediction-of-Experimental-Quantities-of-Molecules/blob/44286115da8018d9923c73244f732b505bda85e1/Figure%20PGM%2BGNN%20on%20IC50.png)
 
 # Partition coefficient (log P) synthetic dataset
+![image alt](https://github.com/Prud11djagba/Exploring-Hybrid-of-Deep-Learning-Models-for-the-Prediction-of-Experimental-Quantities-of-Molecules/blob/05332e1e3f8629c650f8e92f51eeb419058c0cd3/Figure%20PGM%2BGNN%20on%20log%20P.png)
 
 # Partition coefficient (log P) experimental dataset
 
