@@ -54,13 +54,16 @@ correlation heatmap matrix computed from the molecular descriptors and the exper
 
 ![image alt](https://github.com/Prud11djagba/Exploring-Hybrid-of-Deep-Learning-Models-for-the-Prediction-of-Experimental-Quantities-of-Molecules/blob/5e8f2ef6b289e420a961f05ce9a11adc775524b9/Figure%20PGM%2BGNN%20on%20log%20D.png)
 
-# ESOL (Estimating aqueous solubility) dataset
+# Water solubility dataset
 
 ![image alt](https://github.com/Prud11djagba/Exploring-Hybrid-of-Deep-Learning-Models-for-the-Prediction-of-Experimental-Quantities-of-Molecules/blob/3b6e73f6c0913bc5f496be02fd43cd2193896129/Figure%20PGM%2BGNN%20water%20solubility.png)
 
-# SAMPL (Statistical Assessment of the Modeling of Proteins and Ligands: solvation free energy) dataset
+#  Free energy dataset
 
 ![image alt](https://github.com/Prud11djagba/Exploring-Hybrid-of-Deep-Learning-Models-for-the-Prediction-of-Experimental-Quantities-of-Molecules/blob/c71894ee2d069e33daf228607315091e0bdf4cc0/Figure%20PGM%2BGNN%20Free%20hydratation.png)
+
+Histogram of Residual for PGM+GNN values
+![image alt](https://github.com/Prud11djagba/Exploring-Hybrid-of-Deep-Learning-Models-for-the-Prediction-of-Experimental-Quantities-of-Molecules/blob/8d8e8f631f650bd83ecdbba00215e5f2ea344b22/images/residualfreeenergy.png)
 
 
 
