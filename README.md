@@ -34,6 +34,8 @@ The plots and figures below provide a comprehensive visualization of model perfo
 
 ![image alt](https://github.com/Prud11djagba/Exploring-Hybrid-of-Deep-Learning-Models-for-the-Prediction-of-Experimental-Quantities-of-Molecules/blob/3b6e73f6c0913bc5f496be02fd43cd2193896129/Figure%20PGM%2BGNN%20water%20solubility.png)
 
+![image alt](https://github.com/Prud11djagba/Exploring-Hybrid-of-Deep-Learning-Models-for-the-Prediction-of-Experimental-Quantities-of-Molecules/blob/0aadd0e57250c78aeecb157e9d0585491483ccb5/images/residualwatersolubility.png)
+
 #  Free energy dataset
 
 ![image alt](https://github.com/Prud11djagba/Exploring-Hybrid-of-Deep-Learning-Models-for-the-Prediction-of-Experimental-Quantities-of-Molecules/blob/c71894ee2d069e33daf228607315091e0bdf4cc0/Figure%20PGM%2BGNN%20Free%20hydratation.png)
