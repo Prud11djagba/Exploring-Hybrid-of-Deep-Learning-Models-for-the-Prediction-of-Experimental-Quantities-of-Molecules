@@ -22,31 +22,7 @@ The plots and figures below provide a comprehensive visualization of model perfo
 
 # Partition coefficient (log P) experimental dataset
 
-![image alt](https://github.com/Prud11djagba/Exploring-Hybrid-of-Deep-Learning-Models-for-the-Prediction-of-Experimental-Quantities-of-Molecules/blob/6399e6fa72da666758c35e1d820c1b7cb5f13973/images/Correlation%20Heatmap%20of%20Molecular%20Descriptors%20and%20logP.png)
-correlation heatmap matrix computed from the molecular descriptors and the experimental logP values extracted from your dataset.
- Features Included:
 
-    MolWt: Molecular Weight
-
-    TPSA: Topological Polar Surface Area
-
-    RotBonds: Number of Rotatable Bonds
-
-    HDonors: Number of Hydrogen Bond Donors
-
-    HAcceptors: Number of Hydrogen Bond Acceptors
-
-    MolLogP: Predicted logP (RDKit)
-
-    logP: Experimental logP (from your dataset)
-
-🔍 Interpretation Highlights:
-
-    Strong correlation between MolWt and MolLogP, as expected for larger hydrophobic molecules.
-
-    Noticeable relationship between TPSA and logP: higher polarity usually lowers logP.
-
-    Moderate multicollinearity exists among TPSA, HDonors, and HAcceptors—as all relate to polarity and hydrogen bonding potential.
 
 ![image alt](https://github.com/Prud11djagba/Exploring-Hybrid-of-Deep-Learning-Models-for-the-Prediction-of-Experimental-Quantities-of-Molecules/blob/89f06a5c7fba3a096f4e86f494a153f6a60da70e/Figure%20PGM%2BGNN%20on%20log%20P%20exp.png)
 # Distribution Coefficient (log D) experimental dataset
