@@ -13,6 +13,7 @@ The plots and figures below provide a comprehensive visualization of model perfo
 
 
 
+The plots and figures below provide a comprehensive visualization of model performance across the five experimental datasets using various deep learning architectures. These include training and validation the learning curves , predicted vs. actual scatter plots, and residual histograms for each model—PGM, GNN, PGM+GNN, LSTM, and ChemBERTa—applied to IC$_{50}$, $\log P$,  water solubility, and hydration free energy. The loss curves demonstrate the convergence behavior of each model, with GNN and PGM+GNN showing more stable and lower final loss values than LSTM and ChemBERTa in most cases.  Residual histograms show tighter error distributions for GNN-based models, especially the PGM+GNN hybrid, confirming their superior consistency. These visual diagnostics reinforce the numerical findings discussed in the paper and underscore the comparative strengths of hybrid graph-probabilistic approaches.
 
 # IC_50
 ![image alt](https://github.com/Prud11djagba/Exploring-Hybrid-of-Deep-Learning-Models-for-the-Prediction-of-Experimental-Quantities-of-Molecules/blob/15d8bfd770fecbf07fa8cacb2afc507dbe638abe/images/ic50scatterplot.png)
