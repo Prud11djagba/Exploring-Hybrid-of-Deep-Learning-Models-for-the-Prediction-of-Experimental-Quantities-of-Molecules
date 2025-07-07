@@ -15,7 +15,7 @@ The plots and figures below provide a comprehensive visualization of model perfo
 
 
 # IC_50
-![image alt](https://github.com/Prud11djagba/Exploring-Hybrid-of-Deep-Learning-Models-for-the-Prediction-of-Experimental-Quantities-of-Molecules/blob/44286115da8018d9923c73244f732b505bda85e1/Figure%20PGM%2BGNN%20on%20IC50.png)
+![image alt](https://github.com/Prud11djagba/Exploring-Hybrid-of-Deep-Learning-Models-for-the-Prediction-of-Experimental-Quantities-of-Molecules/blob/15d8bfd770fecbf07fa8cacb2afc507dbe638abe/images/ic50scatterplot.png)
 
 # Partition coefficient (log P) synthetic dataset
 ![image alt](https://github.com/Prud11djagba/Exploring-Hybrid-of-Deep-Learning-Models-for-the-Prediction-of-Experimental-Quantities-of-Molecules/blob/05332e1e3f8629c650f8e92f51eeb419058c0cd3/Figure%20PGM%2BGNN%20on%20log%20P.png)
@@ -25,10 +25,6 @@ The plots and figures below provide a comprehensive visualization of model perfo
 
 
 ![image alt](https://github.com/Prud11djagba/Exploring-Hybrid-of-Deep-Learning-Models-for-the-Prediction-of-Experimental-Quantities-of-Molecules/blob/89f06a5c7fba3a096f4e86f494a153f6a60da70e/Figure%20PGM%2BGNN%20on%20log%20P%20exp.png)
-# Distribution Coefficient (log D) experimental dataset
-
-
-![image alt](https://github.com/Prud11djagba/Exploring-Hybrid-of-Deep-Learning-Models-for-the-Prediction-of-Experimental-Quantities-of-Molecules/blob/5e8f2ef6b289e420a961f05ce9a11adc775524b9/Figure%20PGM%2BGNN%20on%20log%20D.png)
 
 # Water solubility dataset
 
@@ -42,6 +38,11 @@ The plots and figures below provide a comprehensive visualization of model perfo
 
 Histogram of Residual for PGM+GNN values
 ![image alt](https://github.com/Prud11djagba/Exploring-Hybrid-of-Deep-Learning-Models-for-the-Prediction-of-Experimental-Quantities-of-Molecules/blob/8d8e8f631f650bd83ecdbba00215e5f2ea344b22/images/residualfreeenergy.png)
+
+# Distribution Coefficient (log D) experimental dataset
+
+
+![image alt](https://github.com/Prud11djagba/Exploring-Hybrid-of-Deep-Learning-Models-for-the-Prediction-of-Experimental-Quantities-of-Molecules/blob/5e8f2ef6b289e420a961f05ce9a11adc775524b9/Figure%20PGM%2BGNN%20on%20log%20D.png)
 
 
 
