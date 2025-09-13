@@ -49,7 +49,7 @@ Histogram of Residual for PGM+GNN values
 
 
 # Summary  of Accuracy, R2 and MSE metrics by Models and Datasets
-![image alt]()
+![image alt](https://github.com/Prud11djagba/Exploring-Hybrid-of-Deep-Learning-Models-for-the-Prediction-of-Experimental-Quantities-of-Molecules/blob/7e74e887810cb6ba5d785678286a80122289f2a3/images/Accuracy%2C%20R2%20and%20MSE%20metrics%20by%20Models%20and%20Datasets.png)
 
 
 
