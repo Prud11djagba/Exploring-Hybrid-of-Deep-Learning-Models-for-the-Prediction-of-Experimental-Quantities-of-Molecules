@@ -48,8 +48,8 @@ Histogram of Residual for PGM+GNN values
 
 
 
-
-
+# Summary  of Accuracy, R2 and MSE metrics by Models and Datasets
+![image alt]()
 
 
 
